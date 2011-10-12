@@ -25,6 +25,10 @@
     height: inherit;
     width: inherit;
 }
+.social_share_privacy_area img {
+	margin: 0 !important;
+	padding: 0 !important;
+}
 /* Facebook begin */
 .social_share_privacy_area .facebook {
     width: 180px;
